@@ -1,0 +1,6 @@
+﻿{
+  "route": "/demo",
+  "activeFeature": "feature-a",
+  "status": "active",
+  "description": "The primary demo route currently resolves to Feature A."
+}

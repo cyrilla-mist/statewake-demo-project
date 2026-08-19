@@ -1,0 +1,6 @@
+﻿{
+  "id": "feature-b",
+  "status": "available",
+  "role": "inactive-candidate",
+  "description": "Feature B exists but is not currently part of the active demo flow."
+}

@@ -1,0 +1,5 @@
+﻿{
+  "target": "cloud-run",
+  "status": "not-blocked",
+  "description": "No active deployment blocker is recorded in the baseline state."
+}

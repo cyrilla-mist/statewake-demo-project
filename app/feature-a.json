@@ -1,0 +1,6 @@
+﻿{
+  "id": "feature-a",
+  "status": "active",
+  "role": "primary-demo-flow",
+  "description": "Feature A is the current approved demo implementation path."
+}
