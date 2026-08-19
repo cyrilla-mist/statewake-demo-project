@@ -4,17 +4,17 @@ This is a deliberately small software project used as a live project-reality sou
 
 ## Current Demo State
 
-- Current direction: Feature A
-- Primary demo route: Feature A
-- Current next step: Finish Feature A integration
-- Feature B exists as a secondary candidate but is not part of the active demo flow.
+- Current implementation path: Feature B
+- Primary demo route: Feature B
+- Feature A has been removed from the active demo flow.
+- Feature B now drives the primary demo walkthrough.
 
 ## Demo Flow
 
-The current demo enters through Feature A.
+The current demo enters through Feature B.
 
-Feature B is available in the project but has not been promoted to the primary demo path.
+Feature A remains part of project history but is no longer the active implementation path.
 
 ## Deployment
 
-The project is intended to be deployed to Cloud Run. No active deployment blocker is recorded in this baseline.
+The current Feature B demo works locally. Hosted Cloud Run readiness is tracked separately.
