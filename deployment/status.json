@@ -1,5 +1,8 @@
 ﻿{
   "target": "cloud-run",
-  "status": "not-blocked",
-  "description": "No active deployment blocker is recorded in the baseline state."
+  "status": "blocked",
+  "localDemoStatus": "working",
+  "cloudRunStatus": "failing",
+  "blocksHostedDemo": true,
+  "description": "The Feature B demo works locally, but Cloud Run startup currently fails and blocks the hosted demo."
 }
