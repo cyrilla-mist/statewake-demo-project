@@ -1,6 +1,6 @@
 ﻿{
   "id": "feature-a",
-  "status": "active",
-  "role": "primary-demo-flow",
-  "description": "Feature A is the current approved demo implementation path."
+  "status": "inactive",
+  "role": "removed-from-active-flow",
+  "description": "Feature A is no longer part of the active demo route."
 }

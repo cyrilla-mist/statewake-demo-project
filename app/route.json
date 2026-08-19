@@ -1,6 +1,6 @@
 ﻿{
   "route": "/demo",
-  "activeFeature": "feature-a",
-  "status": "active",
-  "description": "The primary demo route currently resolves to Feature A."
+  "activeFeature": null,
+  "status": "transitioning",
+  "description": "Feature A was removed from the active demo route. No replacement has been promoted in this commit."
 }
