@@ -22,6 +22,14 @@ It is intentionally separate from the product source so the demo can distinguish
 - Feature A has been removed from the active demo flow.
 - Feature A remains part of project history.
 
+## Intentional Demo Evidence
+
+Issue [`#1 — Cloud Run deployment fails on current demo flow`](https://github.com/cyrilla-mist/statewake-demo-project/issues/1) is intentionally kept **open** as part of the controlled external project state used by the STATEWAKE scenario.
+
+It should not be treated as an unattended maintenance issue for the main STATEWAKE product. Closing or rewriting that issue changes the evidence STATEWAKE observes and should happen only when the demo baseline is intentionally updated.
+
+The hosted STATEWAKE application itself is maintained in the main [`statewake`](https://github.com/cyrilla-mist/statewake) repository; this issue describes the simulated / controlled project reality being recovered inside the demo scenario.
+
 ## Demo Flow
 
 The demo uses changes in this repository to show how STATEWAKE handles an interrupted project:
